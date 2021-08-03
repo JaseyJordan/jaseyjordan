@@ -1,13 +1,12 @@
 ### Hi there 👋  I'm Jo Jordan
 
-I am a passionate self-taught PHP Web Developer with 10+ years of experience. I have experince in both the freelance and coperate world; able to work efficiently within a team and on my own projects ✨.
+I am a passionate self-taught PHP Web Developer with 10+ years of experience. I have experience in both the freelance and corperate world; able to work efficiently within a team and on my own projects ✨.
 
 
 - 🔭 My current project focuses on rebuilding the main websites for Scolmore International LTD
-- 🌱 I’m currently pefecting the T.A.L.L stack
+- 🌱 I’m currently perfecting the T.A.L.L stack
 - 🏢  I am working for <a href="https://www.scolmore.com/">Scolmore International Ltd</a>
 - 💬 Ask me about Laravel/ php
-- 📫 How to reach me: joannejordan@scolmore.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a crazy parrot called Sunny.
  
