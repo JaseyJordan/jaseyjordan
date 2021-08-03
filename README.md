@@ -5,7 +5,7 @@ I am a passionate self-taught PHP Web Developer with 10+ years of experience. I 
 
 - 🔭 My current project focuses on rebuilding the main websites for Scolmore International LTD
 - 🌱 I’m currently pefecting the T.A.L.L stack
-- 👯 🔭 I am working for <a href="https://www.scolmore.com/">Scolmore International Ltd</a>
+- 🏢 I am working for <a href="https://www.scolmore.com/">Scolmore International Ltd</a>
 - 💬 Ask me about Laravel/ php
 - 📫 How to reach me: joannejordan@scolmore.com
 - 😄 Pronouns: She/Her
