@@ -1,12 +1,11 @@
-### Hi there 👋 I'm Jo Jordan
+### Hi there 👋  I'm Jo Jordan
 
-I am a passionate self-taught PHP Web Developer with 10+ years of experience. I have worked for many companies freelance and within a team on site ✨.
+I am a passionate self-taught PHP Web Developer with 10+ years of experience. I have experince in both the freelance and coperate world; able to work efficiently within a team and on my own projects ✨.
 
 
 - 🔭 My current project focuses on rebuilding the main websites for Scolmore International LTD
 - 🌱 I’m currently pefecting the T.A.L.L stack
-- 👯 🔭 I amworking for <a href="https://www.scolmore.com/">Scolmore International Ltd</a>
-- 🤔 I’m looking for help with ...
+- 👯 🔭 I am working for <a href="https://www.scolmore.com/">Scolmore International Ltd</a>
 - 💬 Ask me about Laravel/ php
 - 📫 How to reach me: joannejordan@scolmore.com
 - 😄 Pronouns: She/Her
@@ -23,7 +22,7 @@ I am a passionate self-taught PHP Web Developer with 10+ years of experience. I 
 
 <h2> My Stats </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseyjordan&show_icons=true&theme=radical)
+![Jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseyjordan&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaseyjordan&layout=compact&theme=radical)](https://github.com/jaseyjordan/github-readme-stats)
