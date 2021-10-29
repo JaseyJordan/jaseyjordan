@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jo Jordan
 
-I am a passionate self-taught PHP Web Developer with 10+ years of experience. I have experience in both the freelance and corperate world; able to work efficiently within a team and on my own projects ✨.
+I am a passionate self-taught PHP Web Developer with 5+ years of experience. I have experience in both the freelance and corperate world; able to work efficiently within a team and on my own projects ✨.
 
 
 - 🔭 My current project focuses on rebuilding the main websites for Scolmore International LTD
